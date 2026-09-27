@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "execution_mode": "fresh-process IPython",
+  "code_cells_executed": 14,
+  "error_outputs": 0,
+  "embedded_png_outputs": 12,
+  "elapsed_seconds": 60.45,
+  "notebook_schema_valid": true,
+  "stderr_outputs": 0,
+  "interactive_plotly_panels": 12,
+  "visual_review": "12 static panels inspected; no clipping found",
+  "calendar_and_split_checks": "passed"
+}

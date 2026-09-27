@@ -1,0 +1,13 @@
+# Validated core package versions; Python 3.12.
+numpy==2.5.3
+pandas==2.2.3
+scipy==1.18.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+plotly==7.1.0
+xgboost==3.4.1
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.3.0
+ipython==9.17.1
+mistune==3.3.4

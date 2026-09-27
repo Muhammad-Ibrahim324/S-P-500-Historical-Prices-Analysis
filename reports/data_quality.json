@@ -1,0 +1,22 @@
+{
+  "source_filename": "sp500_yfinance_original.csv",
+  "source_sha256": "1cc913398ff9ea547de5b0f250ff9dc56f463c16644e09e6d8ae3bac9cc72c82",
+  "clean_sha256": "b9324debc3ba7e8fedcf8d109536faa6832837dad748662c0658f5cdc23c4f17",
+  "input_rows_excluding_column_header": 11781,
+  "metadata_rows_removed": 2,
+  "output_rows": 11779,
+  "date_start": "1980-01-02",
+  "date_end": "2026-09-25",
+  "missing_values": 0,
+  "duplicate_dates": 0,
+  "zero_volume_dates": [
+    "2023-05-24"
+  ],
+  "ohlc_max_rounding_change_points": 0.00023437500021827873,
+  "ohlc_decimal_places": 2,
+  "imputed_rows": 0,
+  "removed_price_observations": 0,
+  "adjustment_setting": "unknown in original export",
+  "download_timestamp": "not supplied",
+  "prepared_date": "2026-09-27"
+}

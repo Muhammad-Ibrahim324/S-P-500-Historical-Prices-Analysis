@@ -1,0 +1,37 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version
+
+# Notebook checkpoints; keep the finished notebook and its visible outputs
+.ipynb_checkpoints/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+kaggle.json
+*.pem
+*.key
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Regenerable working outputs; curated reports are tracked separately
+sp500_outputs/
+reports/kernel-ipc*
+*.log
+*.tmp
+*.pkl
+*.joblib
+*.zip
+
+# Large one-off notebook HTML export; keep curated reports/*.html
+notebooks/*.html
